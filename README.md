@@ -24,10 +24,9 @@ This project provides a dynamic analysis of Olympic data using a web application
 - Matplotlib
 - Seaborn
 
-### Steps
+### Demonstration
 
-1. **Clone the repository:**
+You can now view your Streamlit app in your browser.
 
-   ```bash
-   git clone https://github.com/yourusername/olympic-data-analysis.git
-   cd olympic-data-analysis
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.19.32:8501
